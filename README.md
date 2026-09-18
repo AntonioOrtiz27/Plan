@@ -1,4 +1,4 @@
-# Plan de entrenamiento — Lateral derecho
+# Plan de entrenamiento
 
 ## Cómo abrirlo
 Doble clic en `index.html`. Se abre en el navegador, sin internet ni servidor.
